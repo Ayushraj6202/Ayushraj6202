@@ -1,4 +1,3 @@
-# musical-umbrella
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Interested in Full Stack Develpoment and Machine Learning </h3>
 
